@@ -8,7 +8,7 @@ import ethLogo from './assets/ethlogo.png';
 import { networks } from './utils/networks';
 
 // コントラクト
-const TWITTER_HANDLE = "_UNCHAIN";
+const TWITTER_HANDLE = "itoukatyo";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 // 登録したいドメインです。好みで変えてみましょう。
 const tld = ".ninja";
